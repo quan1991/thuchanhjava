@@ -12,6 +12,7 @@ public class Lad1Bai1 {
 		
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Bui dang Quan: ");
+double Toan = 0, Hoa = 0, Sinh = 0;
 		
 System.out.print("Toan: ");
      try{
